@@ -1,0 +1,8 @@
+# Ignorer le dossier "my-config"
+my-config/
+
+# Ignorer tous les fichiers et dossiers sauf "my-custom-dockerfile.my-data"
+my-custom-dockerfile/my-config/*
+
+# Ignorer le dossier "my data"
+my data/
